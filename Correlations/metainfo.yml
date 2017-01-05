@@ -1,0 +1,14 @@
+Name of Quantlet: Correlations
+
+Published in: Information Systems Seminar (WS16/17)
+
+Description: Finds the correlation between job postings on Indeed.com and market cap. Correlations are estimated on individual 
+             company level as well as by each industry sector
+
+Keywords: Correlation, Market Cap, Spearman, Kendall, Company-wise,Industry-wise
+
+Author: Yousuf Hasan Siddiqui
+
+Submitted:  Thu, January 05 2017 by Yousuf Hasan Siddiqui
+
+Datafile: marketcap_data.csv, marketcap_data_industry.csv
