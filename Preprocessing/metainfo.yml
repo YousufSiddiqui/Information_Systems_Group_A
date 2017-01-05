@@ -1,0 +1,14 @@
+Name of Quantlet: Preprocessing
+
+Published in: Information Systems Seminar (WS16/17)
+
+Description: Loads and cleans scraped data by removing unwanted variables,changing variable names and affiliate company names. 
+             It then segregates data according to individual companies and industry sectors
+
+Keywords: Preprocessing, Data Cleaning, Subsets, Company Data, Industry Data,Job Posting
+
+Author: Yousuf Hasan Siddiqui
+
+Submitted:  Thu, January 05 2017 by Yousuf Hasan Siddiqui
+
+Datafile: 1220.csv
